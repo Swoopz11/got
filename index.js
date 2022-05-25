@@ -39,3 +39,4 @@ if ((johSnowHealth + healthKit) >= 100) {
     johSnowHealth += healthKit;
 }
 
+console.log(`John snow's health is up to ${johSnowHealth}`);
